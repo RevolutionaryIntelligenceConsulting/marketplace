@@ -40,7 +40,7 @@ export default class TermsModal extends React.PureComponent {
       >
         <div className="banner">
           <h2>
-            <Icon name="decentraland" /> Welcome to the LAND Manager
+            <Icon name="decentraland" /> Welcome to the Decentraland Marketplace
           </h2>
         </div>
 
@@ -49,7 +49,7 @@ export default class TermsModal extends React.PureComponent {
             <h2>Terms & Conditions</h2>
             <h4>1. Acceptance of terms</h4>
             <p>
-              Decentraland provides this “LAND Manager” as a platform for
+              Decentraland provides this “Marketplace” as a platform for
               managing cryptographic ownership in the virtual world, allowing
               users to control transactions which are then recorded in the
               ownership contract hosted on the Ethereum blockchain. The LAND
@@ -71,12 +71,12 @@ export default class TermsModal extends React.PureComponent {
 
             <h4>2. Beta Disclaimer and Modification of Terms of Use</h4>
             <p>
-              The LAND Manager is still in testing phase and is provided on an
+              The Marketplace is still in testing phase and is provided on an
               “as is” and “as available” basis and may contain defects and
               software bugs. You are advised to safeguard important data,
               property and content, to use caution, and to not rely in any way
               on the correct or secure functionality or performance of the
-              Service and the LAND Manager. Except for Section 17, providing for
+              Service and the Marketplace. Except for Section 17, providing for
               binding arbitration and waiver of class action rights,
               Decentraland reserves the right, at its sole discretion, to modify
               or replace the Terms of Use at any time. The most current version
@@ -108,14 +108,14 @@ export default class TermsModal extends React.PureComponent {
 
             <h4>4. Account Access and Security</h4>
             <p>
-              Access to the LAND Manager is provided via a third party private
+              Access to the Marketplace is provided via a third party private
               key manager selected by you (e.g., a Web3 Provider, Metamask, a
               USB interface for Ledger Wallet, the Mist browser, or other).
-              Security and secure access to each account in the LAND Manager is
+              Security and secure access to each account in the Marketplace is
               provided solely by the third party private key manager you select
               to administer your private key. You and the third party private
               key manager you select are entirely responsible for security
-              related to access of the LAND Manager. Decentraland bears no
+              related to access of the Marketplace. Decentraland bears no
               responsibility for any breach of security or unauthorized access
               to your account. You are advised to: (a) avoid any use of the same
               password with your selected third party private key manager that
@@ -125,9 +125,9 @@ export default class TermsModal extends React.PureComponent {
               Decentraland cannot and will not be liable for any loss or damage
               arising from your sharing or other loss of your private key or
               related information, or any other damage or loss arising from
-              unauthorized access to your LAND Manager account. Transactions
-              that take place using the Service are confirmed and managed via
-              the Ethereum blockchain. You understand that your Ethereum public
+              unauthorized access to your Marketplace account. Transactions that
+              take place using the Service are confirmed and managed via the
+              Ethereum blockchain. You understand that your Ethereum public
               address will be made publicly visible whenever you engage in a
               transaction using the Service.
             </p>
