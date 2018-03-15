@@ -129,7 +129,7 @@
     "history": "Historique"
   },
   "transaction": {
-    "approved": "Vous avez autorisé {MANA} à être utilisé par {marketplace_contract_link}",
+    "approved": "Vous avez autorisé {mana} à être utilisé par {marketplace_contract_link}",
     "disapproved": "Vous n'autorisez plus le {marketplace_contract_link} à transférer des fonds en votre nom",
     "authorize": "Vous avez {action} la {marketplace_contract_link} à gérer les LANDs en votre nom",
     "edit": "Vous avez mis à jour {parcel_link} avec le nom \"{name}\" et la description \"{description}\"",
